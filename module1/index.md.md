@@ -20,4 +20,4 @@ was at the other side of the hill"
 
 \~Duke of Wellington
 
-Next Section
+[Next Section](./From_the_Outside.md)
