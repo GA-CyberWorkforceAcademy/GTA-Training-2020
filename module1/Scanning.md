@@ -1,4 +1,4 @@
-TCP Flags
+**TCP Flags**
 
 -   Illegal flag combination can be used to determine Operating System
 
@@ -29,10 +29,10 @@ Nmap Host discovery run without root privilege:
 
 -   Host considered "up" if the connection succeeds/reset
 
-ICMP: Nmap can do icmp ping sweeps however since OS'es & FW's often block/drop
-ICMP this can be unreliable
+*ICMP: Nmap can do icmp ping sweeps however since OS'es & FW's often block/drop
+ICMP this can be unreliable*
 
-Common Scanning Methods
+**Common Scanning Methods**
 
 -   TCP Connect()Scan (IDS/logs catch this easily!)
 
@@ -46,7 +46,7 @@ Common Scanning Methods
 
 -   UDP Scan (how does that work?!)
 
-What about IPV6?
+**What about IPV6?**
 
 -   Host address space is enormous: scanning an entire prefix is out of the
     questions.
