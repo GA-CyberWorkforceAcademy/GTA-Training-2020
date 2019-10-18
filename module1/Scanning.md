@@ -59,3 +59,5 @@ ICMP this can be unreliable*
 
 Additional Reading: RFC 7707;
 https://www.cs.columbia.edu/\~smb/papers/v6worms.pdf
+
+[Next Section](./Fingerprinting.md)
