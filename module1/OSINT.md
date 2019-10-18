@@ -22,4 +22,4 @@ You may find yourself needing to obtain information from websites, FTP sites etc
 however you only have CLI access. Try practicing some methods for interacting
 with services from the command line.
 
-Next Section
+[Next Section](./Scanning.md)
