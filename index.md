@@ -1,25 +1,57 @@
-# NIST Identify- Asset Management # 
-Identify your assets as a defender. Recon your environment like the adversary does.
+NIST Identify
+=============
 
-## Asset Management (ID.AM) ##
-The data, personnel, devices, systems, and facilities that enable the organization to achieve business purposes are identified and managed consistent with their relative importance to business objectives and the organization’s risk strategy.
+It is important to identify your assets as a defender. In fact, attackers are
+constantly performing this activity against targets (like your organization)
+through reconnaissance. In order to best secure your environment, you must know
+what is in it. Furthermore, you must look at it like the adversary does to best
+understand and limit your exposure.
 
-ID.AM-1: Physical devices and systems within the organization are inventoried. 
+NIST identifies a number of categories under the function of “Identify”. Each of
+these categories contains subcategories of activities. It is important to be
+familiar with those categories before moving forward. Below are the six
+categories aligned to the “Identify” function.
 
-ID.AM-2: Software platforms and applications within the organization are inventoried.
+### Asset Management (ID.AM)
 
-ID.AM-3: Organizational communication and data flows are mapped.
+The data, personnel, devices, systems, and facilities that enable the
+organization to achieve business purposes are identified and managed consistent
+with their relative importance to business objectives and the organization’s
+risk strategy.
 
-ID.AM-4: External information systems are catalogued.
+### **Business Environment (ID.BE)**
 
-ID.AM-5: Resources (e.g., hardware, devices, data, time, personnel, and software) are prioritized based on their classification, criticality, and business value.
+The organization’s mission, objectives, stakeholders, and activities are
+understood and prioritized; this information is used to inform cybersecurity
+roles, responsibilities, and risk management decisions.
 
-ID.AM-6: Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are established.
+### **Governance (ID.GV)**
 
-## Jump to Module: ##
+The policies, procedures, and processes to manage and monitor the organization’s
+regulatory, legal, risk, environmental, and operational requirements are
+understood and inform the management of cybersecurity risk.
+
+### **Risk Assessment (ID.RA)**
+
+The organization understands the cybersecurity risk to organizational operations
+(including mission, functions, image, or reputation), organizational assets, and
+individuals.
+
+### **Risk Management Strategy (ID.RM)**
+
+The organization’s priorities, constraints, risk tolerances, and assumptions are
+established and used to support operational risk decisions**.**
+
+### **Supply Chain Risk Management (ID.SC)**
+
+The organization’s priorities, constraints, risk tolerances, and assumptions are
+established and used to support risk decisions associated with managing supply
+chain risk. The organization has established and implemented the processes to
+identify, assess and manage supply chain risks.
+
+Jump to Module:
+---------------
 
 [1- From the Outside: An Attacker's Perspective](./module1/index.md)
 
 [2- Inside the Castle](./module2/index.md)
-
-
