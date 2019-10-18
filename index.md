@@ -1,4 +1,4 @@
-# NIST Identify- Asset Management (ID.AM # 
+# NIST Identify- Asset Management # 
 Identify your assets as a defender. Recon your environment like the adversary does.
 
 ## Asset Management (ID.AM) ##
