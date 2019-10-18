@@ -20,6 +20,6 @@ ID.AM-6: Cybersecurity roles and responsibilities for the entire workforce and t
 
 [1- From the Outside: An Attacker's Perspective](/module1.md)
 
-[2- Inside the Castle] (/module2.md)
+[2- Inside the Castle](/module2.md)
 
 
