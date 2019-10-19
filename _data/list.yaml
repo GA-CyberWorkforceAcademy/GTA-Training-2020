@@ -1,0 +1,30 @@
+docs_list_title: NIST Identify
+docs:
+
+- title: Introduction
+  url: /index.md
+
+- title: Module 1
+  subfolderitems:
+      - page: Overview
+        url: /module1/index.md
+      - page: Reconnaissance; An Attackers Perspective
+        url: /module1/From_the_Outside.md
+      - page: Open Source Intelligence
+        url: /module1/OSINT.md
+	  - page: Scanning
+        url: /module1/Scanning.md
+      - page: Footprinting.md
+        url: /module1/Footprinting.md
+	  - page: Social Engineering
+        url: /module1/Social_Engineering.md
+
+- title: Module 2
+  subfolderitems:
+      - page: Overview
+        url: /module2/index.md
+  
+- title: Module 3
+  subfolderitems:
+      - page: Overview
+        url: /module3/index.md
