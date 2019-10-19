@@ -1,7 +1,9 @@
 docs:
 
 - title: Introduction
-  url: /index.md
+  subfolderitems:
+      - page: NIST Identify
+        url: /index.md
 
 - title: Module 1
   subfolderitems:
