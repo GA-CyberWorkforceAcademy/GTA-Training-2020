@@ -11,11 +11,11 @@ docs:
         url: /module1/From_the_Outside.md
       - page: Open Source Intelligence
         url: /module1/OSINT.md
-	  - page: Scanning
+        - page: Scanning
         url: /module1/Scanning.md
       - page: Footprinting.md
         url: /module1/Footprinting.md
-	  - page: Social Engineering
+      - page: Social Engineering
         url: /module1/Social_Engineering.md
 
 - title: Module 2
