@@ -52,6 +52,8 @@ identify, assess and manage supply chain risks.
 Jump to Module:
 ---------------
 
-[1- From the Outside: An Attacker's Perspective](./module1/index.md)
+Module [1- An Attacker's Perspective](./module1/index.md); From the Outside
 
-[2- Inside the Castle](./module2/index.md)
+Module [2- Inside the Castle](./module2/index.md)
+
+Module 3- Managing the Moving Pieces
