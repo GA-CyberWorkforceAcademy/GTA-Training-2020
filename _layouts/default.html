@@ -24,9 +24,6 @@
           {% if site.github.is_project_page %}
             <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
           {% endif %}
-        {% if site.github.is_user_page %}
-          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
-        {% endif %}
       </div>
     </header>
     <div id="content-wrapper">
@@ -38,9 +35,9 @@
           {% for item in site.data.list.docs %}
             <h3>{{ item.title }}</h3>
               <ul>
-                {% for entry in item.subfolderitems %}
-                  <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-                {% endfor %}
+              {% for entry in item.subfolderitems %}
+                <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+              {% endfor %}
               </ul>
           {% endfor %}
         </aside>
