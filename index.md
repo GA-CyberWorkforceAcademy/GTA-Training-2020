@@ -1,5 +1,5 @@
-NIST Identify
-=============
+Introduction: NIST Identify
+===========================
 
 It is important to identify your assets as a defender. In fact, attackers are
 constantly performing this activity against their targets (like your
@@ -49,11 +49,5 @@ established and used to support risk decisions associated with managing supply
 chain risk. The organization has established and implemented the processes to
 identify, assess and manage supply chain risks.
 
-Jump to Module:
----------------
-
-Module [1- An Attacker's Perspective](./module1/index.md); From the Outside
-
-Module [2- Inside the Castle](./module2/index.md)
-
-Module 3- Managing the Moving Pieces
+Begin Module 1
+--------------
