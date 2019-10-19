@@ -14,10 +14,10 @@ docs:
           url: /module1/OSINT.md
         - page: Scanning
           url: /module1/Scanning.md
-        - page: Footprinting.md
-          url: /module1/Footprinting.md
         - page: Social Engineering
           url: /module1/Social_Engineering.md
+        - page: Footprinting.md
+          url: /module1/Footprinting.md
 
   - title: Module 2
     subfolderitems:
