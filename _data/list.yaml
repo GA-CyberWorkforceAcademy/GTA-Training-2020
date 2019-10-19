@@ -8,9 +8,9 @@ docs:
     subfolderitems:
         - page: Overview
           url: /module1/index.md
-        - page: Reconnaissance; An Attackers Perspective
+        - page: An Attackers Perspective
           url: /module1/From_the_Outside.md
-        - page: Open Source Intelligence
+        - page: Open Source Intel
           url: /module1/OSINT.md
         - page: Scanning
           url: /module1/Scanning.md
