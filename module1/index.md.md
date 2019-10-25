@@ -6,9 +6,18 @@ includes identifying all of the following:
 
 -   Technologies
 
+>   *What types of hardware is in use? What vendors? What types of software or
+>   applications are used?*
+
 -   IP Addresses and Sub-domains
 
+>   *What are the network IPs, and domains, subdomains or hosting providers?
+>   What ISPs are used?*
+
 -   People
+
+>   *Who are the network or system administrators? Who else may have elevated
+>   privileges or access? How do people connect to the network?*
 
 -   Content of Interest/Importance
 
@@ -20,4 +29,4 @@ was at the other side of the hill"
 
 \~Duke of Wellington
 
-[Next Section](./From_the_Outside.md)
+[Next](./From_the_Outside.md) Module: From the Outside
