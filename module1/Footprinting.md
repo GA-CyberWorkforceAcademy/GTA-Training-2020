@@ -8,7 +8,26 @@ to achieve their goals. An attacker may use various tools, techniques, and
 technologies. Some of the utilities or tools used for Footprinting may include
 (but is not limited to) the following:
 
-Domain Registar queries
+World Wide Web Crawling
+-----------------------
+
+Web Robots (also known as Web Wanderers, Crawlers, or Spiders), are programs
+that traverse the Web automatically. Legitimate search engines use them to index
+web content however they can be abused by hackers or spammers to scan for email
+addresses, or other information. These web robots use the robot.txt file for a
+site to assume permission(s) to access content throughout the site.
+
+DNS Basics
+----------
+
+A domain name is an easy to remember way for locating resources on the world
+wide web. The domain names are related to computers or machines IP addresses.
+The domain names are mapped to IP addresses through Domain Name Servers (DNS),
+which are the Internet's equivalent of a phone book. These servers maintain a
+directory of domain names and translate them when a query for a resource is
+made.
+
+Domain Registar Queries
 -----------------------
 
 A domain name registrar is a service that allows you to officially register your
@@ -26,26 +45,17 @@ Whois can be accesses in your browser from a number of sites. Try using
 <https://whois.net> or <https://lookup.icann.org/> to lookup domain names for a
 few sites you use commonly.
 
-World Wide Web Crawling
------------------------
-
-Web Robots (also known as Web Wanderers, Crawlers, or Spiders), are programs
-that traverse the Web automatically. Legitimate search engines use them to index
-web content however they can be abused by hackers or spammers to scan for email
-addresses, or other information. These web robots use the robot.txt file for a
-site to assume permission(s) to access content throughout the site.
-
 DNS enumeration 
 ----------------
 
-Provides information about the DNS servers and their corresponding records for
-an organization. An organization may have both internal and external DNS servers
-that can yield information such as usernames, computer names, and IP addresses
-of potential target systems. There are tools and utilities useful for performing
-DNS enumeration, as well as open sources of information. Some examples of these
-include (but are not limited to), dig, nslookup, American Registry for Internet
-Numbers (ARIN), and Whois. To enumerate DNS, you must have understanding about
-DNS and how it works.
+DNS enumeration provides information about the DNS servers and their
+corresponding records for an organization. An organization may have both
+internal and external DNS servers that can yield information such as usernames,
+computer names, and IP addresses of potential target systems. There are tools
+and utilities useful for performing DNS enumeration, as well as open sources of
+information. Some examples of these include (but are not limited to), dig,
+nslookup, American Registry for Internet Numbers (ARIN), and Whois. To enumerate
+DNS, you must have understanding about DNS and how it works.
 
 You must have knowledge about DNS records. The list of DNS record provides an
 overview of types of resource records (database records) stored in the zone
@@ -59,6 +69,11 @@ but this short list should be a starting point for familiarity.
 -   DNS research quiz
 
     -   Simple Dig exercise
+
+TCP/UDP Basics
+--------------
+
+<https://www.youtube.com/watch?v=ROuoU9qZSKQ>
 
 Network enumeration/port scanning
 ---------------------------------
