@@ -1,23 +1,34 @@
 Open Source Intelligence (OSINT)
 --------------------------------
 
-Reconnaissance g begins with establishing a base of information via OSINT.
-Without visiting the website, collect all the information you can about a
-company of your choice.
+Reconnaissance g begins with establishing a base of information via OSINT. This
+may include:
+
+-   Passive reconnaissance
+
+-   Locating information that the target may not regard as exploitable or even
+    know they have disclosed
+
+-   Performing searches covertly through anonymized proxies / VPNs
+
+-   Using compromised accounts or web servers to gain further access
+
+To begin to understand what type on information is available through open source
+intelligence, try collecting all the information you can about a company of your
+choice.
 
 Try some of these resources to start off with:
 
--   https://www.shodan.io
+-   <https://www.shodan.io> (you can perform limited searches with a free
+    account)
+
+-   https://Indeed.com (You can find information about technology and their
+    personnel needs in job postings)
 
 -   <https://ww.dnsstuf.com/tools>
 
-Interactions with protocols/resources
-
-You may find yourself needing to obtain information from websites, FTP sites etc
-however you only have CLI access. Try practicing some methods for interacting
-with services from the command line.
-
-**Social Engineering**
+Social Engineering
+------------------
 
 "Any act that influence a person to take an action that may or may not be in
 their best interest."
@@ -119,6 +130,15 @@ TCP/UDP Basics
 --------------
 
 <https://www.youtube.com/watch?v=ROuoU9qZSKQ>
+
+Using Netstat
+-------------
+
+-   Report port status on local machine
+
+-   Switches to filter by protocol
+
+-   Display process name or PID that opened port
 
 Network enumeration/port scanning
 ---------------------------------
