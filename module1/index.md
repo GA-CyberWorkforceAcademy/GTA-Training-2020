@@ -51,7 +51,7 @@ in movement towards their objective, including:
     exfiltration, data destruction, or encryption for ransom (among other
     things).
 
-![NIST CSF](.\images\Kill_Chain.PNG)
+![NIST CSF](.\images\Kill_Chain.png)
 
 Image source:[<https://en.wikipedia.org/wiki/Kill_chain>]
 
@@ -87,7 +87,7 @@ mitigate impacts of the attack. Defense in Depth employs a holistic approach
 against assets, and accounts for interconnections and dependencies. This
 approach is well-suited for combating internal threats (e.g. insiders).
 
-![DiD](.\images\Defense_in_Depth.PNG)
+![DiD](.\images\Defense_in_Depth.png)
 
 Image source: [Michael Fisher,
 <https://twitter.com/Fisher85M/status/1030976170181976064>]
