@@ -1,4 +1,4 @@
-Introduction: NIST Identify/Reconnaissance
+Introduction: NIST Identify
 ==========================================
 <img align="right" src="https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/NISTFramework.png">
 
