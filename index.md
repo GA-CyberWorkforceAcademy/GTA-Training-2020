@@ -28,8 +28,7 @@ Module 2-
 
 ### [Begin Module 2](\module2\index.md)
 
-
-
+![NIST CSF](https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/NISTFramework.png)
 
 
 
