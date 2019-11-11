@@ -51,8 +51,9 @@ in movement towards their objective, including:
     exfiltration, data destruction, or encryption for ransom (among other
     things).
 
-Image source:
-[<https://www.nist.gov/news-events/news/2018/04/nist-releases-version-11-its-popular-cybersecurity-framework>]
+![NIST CSF](\images\Kill_Chain.png)
+
+Image source:[<https://en.wikipedia.org/wiki/Kill_chain>]
 
 By investigating these phases, a defender can form courses of action to stop the
 attacker from progressing through these phases:
@@ -85,6 +86,8 @@ while allowing an organization to respond to the intrusion and reduce or
 mitigate impacts of the attack. Defense in Depth employs a holistic approach
 against assets, and accounts for interconnections and dependencies. This
 approach is well-suited for combating internal threats (e.g. insiders).
+
+![DiD](images\Defense_in_Dpth.png)
 
 Image source: [Michael Fisher,
 <https://twitter.com/Fisher85M/status/1030976170181976064>]
