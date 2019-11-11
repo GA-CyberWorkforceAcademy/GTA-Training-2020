@@ -22,14 +22,20 @@ accessing or using that information, an organization can work towards a better
 risk assessment and a more secure posture. This module will focus on
 reconnaissance, vulnerability assessments.
 
-### [Begin Module 1](file:///C:\Users\srees\Documents\GitHub\NIST-Identify\module1\index.md.md)
+### [Begin Module 1](\module1\index.md)
 
 Module 2-
 
-### [Begin Module 2](file:///C:\Users\srees\Documents\GitHub\NIST-Identify\module2\index.md.md)
+### [Begin Module 2](\module2\index.md)
+
+
+
+
+
+
 
 More information about NIST’s Identify sub-categories:
-======================================================
+------------------------------------------------------
 
 ### Asset Management (ID.AM)
 
