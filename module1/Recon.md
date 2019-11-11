@@ -1,3 +1,13 @@
+Footprinting
+============
+
+Footprinting is also known as reconnaissance. This activity consists of
+gathering information about computers, systems, networks, and the organizations
+they belong to. This is generally the first step in a process used by attackers
+to achieve their goals. An attacker may use various tools, techniques, and
+technologies. Some of the utilities or tools used for Footprinting may include
+(but is not limited to) the following:
+
 Open Source Intelligence (OSINT)
 --------------------------------
 
@@ -54,16 +64,6 @@ tunes out/can't keep tract, inject bad stuff
 
 \- Questions: Language structure that forces the execution of instructions.
 
-Footprinting
-============
-
-Footprinting is also known as reconnaissance. This activity consists of
-gathering information about computers, systems, networks, and the organizations
-they belong to. This is generally the first step in a process used by attackers
-to achieve their goals. An attacker may use various tools, techniques, and
-technologies. Some of the utilities or tools used for Footprinting may include
-(but is not limited to) the following:
-
 World Wide Web Crawling
 -----------------------
 
@@ -83,6 +83,8 @@ which are the Internet's equivalent of a phone book. These servers maintain a
 directory of domain names and translate them when a query for a resource is
 made.
 
+![Domain Registry Process]( https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/DomainRegistar.PNG)
+
 Domain Registar Queries
 -----------------------
 
@@ -100,6 +102,13 @@ name that has not yet been registered to someone else.)*
 Whois can be accesses in your browser from a number of sites. Try using
 <https://whois.net> or <https://lookup.icann.org/> to lookup domain names for a
 few sites you use commonly.
+
+Frameworks
+----------
+Like most aspects of cybersecurity or cyberattack, there are a number of frameworks available for automating work! Recon-ng is a full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.
+
+![Recon-ng Framework Exercise](\exercises\Recon_exercise.md)
+
 
 DNS enumeration 
 ----------------
@@ -123,8 +132,7 @@ include: A, AAAA, MX, NS, CNAME, AXFR, and SOA. There are many more to learn,
 but this short list should be a starting point for familiarity.
 
 -   DNS research quiz
-
-    -   Simple Dig exercise
+![DNS Enumeration Exercise](\exercises\DNS_enumeration_exercise.md)
 
 TCP/UDP Basics
 --------------
