@@ -1,5 +1,6 @@
 Introduction: NIST Identify/Reconnaissance
 ==========================================
+<img align="right" src="https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/NISTFramework.png">
 
 It is important to identify your assets as a defender. In fact, attackers are
 constantly performing this activity against their targets (like your
@@ -27,9 +28,6 @@ reconnaissance, vulnerability assessments.
 Module 2-
 
 ### [Begin Module 2](\module2\index.md)
-
-![NIST CSF](https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/NISTFramework.png)
-
 
 
 
