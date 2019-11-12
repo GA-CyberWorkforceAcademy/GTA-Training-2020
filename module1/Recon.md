@@ -83,7 +83,7 @@ which are the Internet's equivalent of a phone book. These servers maintain a
 directory of domain names and translate them when a query for a resource is
 made.
 
-![Domain Registry Process](media/8f0cbd112c4e2190b645ffca9a68f781.png)
+![Domain Registry Process](https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/DomainRegistar.PNG)
 
 Domain Registry Process
 
