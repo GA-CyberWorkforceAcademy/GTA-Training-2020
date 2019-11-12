@@ -1,6 +1,5 @@
 Introduction: NIST Identify
-==========================================
-<img align="right" src="https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/NISTFramework.png">
+===========================
 
 It is important to identify your assets as a defender. In fact, attackers are
 constantly performing this activity against their targets (like your
@@ -8,31 +7,41 @@ organization) through reconnaissance. In order to best secure your environment,
 you must know what is in it. Furthermore, you must look at it like the adversary
 does, to best understand and limit your exposure.
 
+Module Contents
+---------------
+
+Module 1- Cyber Kill Chain Focus; External Threats.
+
+Understanding what you have is the first step towards forming a good defense.
+Likewise, attackers begin with reconnaissance of their targets. By understanding
+what assets an organization has, as well as how an adversary is accessing or
+using that information, an organization can work towards a better risk
+assessment and a more secure posture. This module will focus on how adversaries
+conduct reconnaissance to gather information about assets, and identifying
+vulnerabilities throughout a network.
+
+### Begin Module 1
+
+Module 2- Defense in Depth Focus; Internal (and External) Threats.
+
+Preparing a good defense within an organization’s perimeter is critical. When a
+network/system is accessed, the level of controls and protection afforded
+throughout a domain provide obstacles to slow the spread of a malware infection
+or movement of an adversary. This allows the defense time to detect, protect and
+eradicate threats. By identifying and categorizing assets and recognizing roles
+and responsibilities, defense in depth can be implemented, evaluated and
+improved upon. This module will focus on policy, roles and responsibilities,
+risk assessment, and controls.
+
+### Begin Module 2
+
+More information about NIST’s Identify sub-categories:
+------------------------------------------------------
+
 NIST identifies a number of categories under the function of “Identify”. Each of
 these categories contains subcategories of activities. It is important to be
 familiar with those categories before moving forward. Below are the six
 categories aligned to the “Identify” function.
-
-Module Contents
----------------
-
-Module 1- Understanding what you have is the first step towards forming a good
-defense. Likewise, attackers begin with reconnaissance of their targets. By
-understanding what assets an organization has, as well as how an adversary is
-accessing or using that information, an organization can work towards a better
-risk assessment and a more secure posture. This module will focus on
-reconnaissance, vulnerability assessments.
-
-### [Begin Module 1](\module1\index.md)
-
-Module 2-
-
-### [Begin Module 2](\module2\index.md)
-
-
-
-More information about NIST’s Identify sub-categories:
-------------------------------------------------------
 
 ### Asset Management (ID.AM)
 

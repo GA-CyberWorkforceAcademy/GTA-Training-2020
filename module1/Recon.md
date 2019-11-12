@@ -83,7 +83,9 @@ which are the Internet's equivalent of a phone book. These servers maintain a
 directory of domain names and translate them when a query for a resource is
 made.
 
-![Domain Registry Process]( https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/DomainRegistar.PNG)
+![Domain Registry Process](media/8f0cbd112c4e2190b645ffca9a68f781.png)
+
+Domain Registry Process
 
 Domain Registar Queries
 -----------------------
@@ -102,13 +104,6 @@ name that has not yet been registered to someone else.)*
 Whois can be accesses in your browser from a number of sites. Try using
 <https://whois.net> or <https://lookup.icann.org/> to lookup domain names for a
 few sites you use commonly.
-
-Frameworks
-----------
-Like most aspects of cybersecurity or cyberattack, there are a number of frameworks available for automating work! Recon-ng is a full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.
-
-![Recon-ng Framework Exercise](\exercises\Recon_exercise.md)
-
 
 DNS enumeration 
 ----------------
@@ -132,7 +127,23 @@ include: A, AAAA, MX, NS, CNAME, AXFR, and SOA. There are many more to learn,
 but this short list should be a starting point for familiarity.
 
 -   DNS research quiz
-![DNS Enumeration Exercise](\exercises\DNS_enumeration_exercise.md)
+
+-   DNS Enumeration Exercise
+
+    DNS Enumeration Exercise
+
+Frameworks
+----------
+
+Like most aspects of cybersecurity or cyberattack, there are a number of
+frameworks available for automating work! Recon-ng is a full-featured
+reconnaissance framework designed with the goal of providing a powerful
+environment to conduct open source web-based reconnaissance quickly and
+thoroughly.
+
+Recon-ng Framework Exercise
+
+Recon-ng Framework Exercise
 
 TCP/UDP Basics
 --------------
