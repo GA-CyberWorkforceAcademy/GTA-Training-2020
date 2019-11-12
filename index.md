@@ -20,7 +20,7 @@ assessment and a more secure posture. This module will focus on how adversaries
 conduct reconnaissance to gather information about assets, and identifying
 vulnerabilities throughout a network.
 
-![Begin Module 1](/module1/index.md)
+![Begin Module 1](module1/index.md)
 
 Module 2- Defense in Depth Focus; Internal (and External) Threats.
 
@@ -33,7 +33,7 @@ and responsibilities, defense in depth can be implemented, evaluated and
 improved upon. This module will focus on policy, roles and responsibilities,
 risk assessment, and controls.
 
-![Begin Module 2](/module2/index.md)
+![Begin Module 2](module2/index.md)
 
 More information about NIST’s Identify sub-categories:
 ------------------------------------------------------
