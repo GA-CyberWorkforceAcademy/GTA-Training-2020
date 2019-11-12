@@ -4,13 +4,9 @@ Module 1 Overview
 Threats to an organization can be organized at a high level to internal and
 external. External threats may be very familiar as they are reported regularly
 in the news as more and more organizations suffer large scale
-breaches/compromises. Internal threats on the other hand can be far more
-dangerous since the treat actor(s) already have access and in some cases
-elevated privileges on a network/system. Both external and internal threats must
-be addresses, but it often requires assuming different perspectives. For
-discussing external threats, the Cyber Kill Chain will form the basis of the
-approach. For discussing internal threats, Defense in Depth will provide the
-best model for evaluating and mitigating threats.
+breaches/compromises. Both external and internal threats must be addresses, but
+it often requires assuming different perspectives. For discussing external
+threats, the Cyber Kill Chain will form the basis of the approach.
 
 Cyber Kill Chain (External Threats)
 ===================================
@@ -51,7 +47,7 @@ in movement towards their objective, including:
     exfiltration, data destruction, or encryption for ransom (among other
     things).
 
-![NIST CSF](https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/Kill_Chain.png)
+![NIST CSF](media/1bdb97b228a00f14272ff0fc1e8689a3.png)
 
 Image source:[<https://en.wikipedia.org/wiki/Kill_chain>]
 
@@ -72,25 +68,6 @@ attacker from progressing through these phases:
 
 6.  Contain: network segmentation to stop spread of access and contain threat
     until eradication.
-
-Defense in Depth (Internal Threats)
-===================================
-
-Defense in Depth originated as a military strategy to deliver multiple barriers
-between an adversary and their target; these barriers impede the progress of
-attackers and slow or stop them from attaining their goals. It also affords the
-defense time to monitor progress and develop responses to the incident to
-prevent further damages. In cybersecurity, Defense in Depth relates to the
-detective and protective measures designed to impede the progress of a attacker
-while allowing an organization to respond to the intrusion and reduce or
-mitigate impacts of the attack. Defense in Depth employs a holistic approach
-against assets, and accounts for interconnections and dependencies. This
-approach is well-suited for combating internal threats (e.g. insiders).
-
-![DiD](https://github.com/GA-CyberWorkforceAcademy/NIST-Identify/raw/master/module1/images/Defense_in_Depth.PNG)
-
-Image source: [Michael Fisher,
-<https://twitter.com/Fisher85M/status/1030976170181976064>]
 
 What to look for
 ================
