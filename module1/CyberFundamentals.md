@@ -127,7 +127,7 @@ is available free of charge from:
 
 ### Examples in Confidentiality:
 
-![Image result for AES encryption](media/6023e894a31853b26aa7f2df4df8ca5f.png)
+![Image result for AES encryption](media/6023e894a31853b26aa7f2df4df8ca5f.png | width=200)
 
 The history of encryption keys goes back to the early 1970's. The National
 Bureau of Standards (now known as NIST), published a call for proposals to
