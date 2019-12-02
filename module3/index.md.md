@@ -1,4 +1,4 @@
-Module 2 Overview
+Module 3 Overview
 =================
 
 Threats to an organization can be organized at a high level to internal and
@@ -26,6 +26,8 @@ against assets, and accounts for interconnections and dependencies. This
 approach is well-suited for combating internal threats (e.g. insiders).
 
 ![DiD](media/a8aeed6ed7dc442de8b92eafe349446e.png)
+
+DiD
 
 DiD
 

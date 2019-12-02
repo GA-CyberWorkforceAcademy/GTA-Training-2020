@@ -1,16 +1,15 @@
-Introduction: NIST Identify
-===========================
-
-It is important to identify your assets as a defender. In fact, attackers are
-constantly performing this activity against their targets (like your
-organization) through reconnaissance. In order to best secure your environment,
-you must know what is in it. Furthermore, you must look at it like the adversary
-does, to best understand and limit your exposure.
-
 Module Contents
 ---------------
 
-Module 1- Cyber Kill Chain Focus; External Threats.
+**Module 1- Cybersecurity Fundamentals.**
+
+Before diving into the tasks that enable a cybersecurity professional to defend
+an enterprise, the core fundamentals must be understood. This includes roles and
+responsibilities, frameworks, policies, KSAs, and more.
+
+[Begin Module 1](module1/index.md)
+
+**Module 2- Cyber Kill Chain Focus; External Threats.**
 
 Understanding what you have is the first step towards forming a good defense.
 Likewise, attackers begin with reconnaissance of their targets. By understanding
@@ -20,9 +19,9 @@ assessment and a more secure posture. This module will focus on how adversaries
 conduct reconnaissance to gather information about assets, and identifying
 vulnerabilities throughout a network.
 
-[Begin Module 1](module1/index.md)
+[Begin Module](module2/index.md) 2
 
-Module 2- Defense in Depth Focus; Internal (and External) Threats.
+**Module 3- Defense in Depth Focus; Internal (and External) Threats.**
 
 Preparing a good defense within an organization’s perimeter is critical. When a
 network/system is accessed, the level of controls and protection afforded
@@ -33,49 +32,4 @@ and responsibilities, defense in depth can be implemented, evaluated and
 improved upon. This module will focus on policy, roles and responsibilities,
 risk assessment, and controls.
 
-[Begin Module 2](module2/index.md)
-
-More information about NIST’s Identify sub-categories:
-------------------------------------------------------
-
-NIST identifies a number of categories under the function of “Identify”. Each of
-these categories contains subcategories of activities. It is important to be
-familiar with those categories before moving forward. Below are the six
-categories aligned to the “Identify” function.
-
-### Asset Management (ID.AM)
-
-The data, personnel, devices, systems, and facilities that enable the
-organization to achieve business purposes are identified and managed consistent
-with their relative importance to business objectives and the organization’s
-risk strategy.
-
-### Business Environment (ID.BE)
-
-The organization’s mission, objectives, stakeholders, and activities are
-understood and prioritized; this information is used to inform cybersecurity
-roles, responsibilities, and risk management decisions.
-
-### Governance (ID.GV)
-
-The policies, procedures, and processes to manage and monitor the organization’s
-regulatory, legal, risk, environmental, and operational requirements are
-understood and inform the management of cybersecurity risk.
-
-### Risk Assessment (ID.RA)
-
-The organization understands the cybersecurity risk to organizational operations
-(including mission, functions, image, or reputation), organizational assets, and
-individuals.
-
-### Risk Management Strategy (ID.RM)
-
-The organization’s priorities, constraints, risk tolerances, and assumptions are
-established and used to support operational risk decisions**.**
-
-### Supply Chain Risk Management (ID.SC)
-
-The organization’s priorities, constraints, risk tolerances, and assumptions are
-established and used to support risk decisions associated with managing supply
-chain risk. The organization has established and implemented the processes to
-identify, assess and manage supply chain risks.
+[Begin Module](module3/index.md) 3
