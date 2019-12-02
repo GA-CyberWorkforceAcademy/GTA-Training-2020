@@ -19,7 +19,7 @@ assessment and a more secure posture. This module will focus on how adversaries
 conduct reconnaissance to gather information about assets, and identifying
 vulnerabilities throughout a network.
 
-[Begin Module](module2/index.md) 2
+Begin Module 2
 
 **Module 3- Defense in Depth Focus; Internal (and External) Threats.**
 
@@ -32,4 +32,4 @@ and responsibilities, defense in depth can be implemented, evaluated and
 improved upon. This module will focus on policy, roles and responsibilities,
 risk assessment, and controls.
 
-[Begin Module](module3/index.md) 3
+[Begin Module 3](module3/index.md.md)

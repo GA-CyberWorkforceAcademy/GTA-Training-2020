@@ -27,9 +27,5 @@ approach is well-suited for combating internal threats (e.g. insiders).
 
 ![DiD](media/a8aeed6ed7dc442de8b92eafe349446e.png)
 
-DiD
-
-DiD
-
 Image source: [Michael Fisher,
 <https://twitter.com/Fisher85M/status/1030976170181976064>]
