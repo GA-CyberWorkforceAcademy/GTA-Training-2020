@@ -20,14 +20,15 @@ The following are the definitions can be found in the NIST SP 800-12, page 2,
 para. 1.4. These definitions serve as the basis for the concepts but may be
 worded slightly different in other publications.
 
-**Confidentiality**: Preserving authorized restrictions on information access
-and disclosure, including means for protecting personal privacy and proprietary
-information.
+-   **Confidentiality**: Preserving authorized restrictions on information
+    access and disclosure, including means for protecting personal privacy and
+    proprietary information.
 
-**Integrity:** Guarding against improper information modification or destruction
-and ensuring information non-repudiation and authenticity.
+-   **Integrity:** Guarding against improper information modification or
+    destruction and ensuring information non-repudiation and authenticity.
 
-**Availability:** Ensuring timely and reliable access to and use of information.
+-   **Availability:** Ensuring timely and reliable access to and use of
+    information.
 
 *Additionally, as we discuss the C-I-A triad and move into information security
 governance and risk management, it will be important to understand
