@@ -5,7 +5,7 @@ Footprinting is also known as reconnaissance. This activity consists of
 gathering information about computers, systems, networks, and the organizations
 they belong to. This is generally the first step in a process used by attackers
 to achieve their goals. An attacker may use various tools, techniques, and
-technologies. Some of the utilities or tools used for Footprinting may include
+technologies. Some of the utilities or tools used for footprinting may include
 (but is not limited to) the following:
 
 Open Source Intelligence (OSINT)
@@ -40,29 +40,24 @@ Try some of these resources to start off with:
 Social Engineering
 ------------------
 
-"Any act that influence a person to take an action that may or may not be in
-their best interest."
+*"Any act that influence a person to take an action that may or may not be in
+their best interest."*
 
-\- Set a frame (pretexting) for interaction/ prime for response
+![Image result for social engineering](media/6a685c9ec5e6e1d10ccb43dd6a9b37be.jpg)
 
-\- Reciprocity
+This is often the starting point for an attacker. Getting information from
+people within an organization can allow attackers a fast, cheap, and potentially
+low-risk way to develop their strategy. If social engineering is used to gain
+access to an organization either physically, or through the network, this is
+even more valuable to the attacker.
 
-\- Scarcity
+When using social engineering as a method in reconnaissance, the attacker will
+generally look at framing the exchange, and potentially priming a victim for
+responses. Some tricks/tactics to successful social engineering include using
+(but are not limited too): reciprocity, scarcity, authority, and sympathy.
 
-\- Authority
-
-\- Social Proof
-
-\- Sympathy
-
-Socal Engineering (Cont.)
-
-\- Phone/email/In-person
-
-\- Mental Buffer-Overflow: layering loop (stories/information) until the subject
-tunes out/can't keep tract, inject bad stuff
-
-\- Questions: Language structure that forces the execution of instructions.
+**Social engineering can be done in-person, over the phone, or online (email or
+other methods) with varying degrees of risk to the attacker.**
 
 World Wide Web Crawling
 -----------------------
@@ -72,6 +67,8 @@ that traverse the Web automatically. Legitimate search engines use them to index
 web content however they can be abused by hackers or spammers to scan for email
 addresses, or other information. These web robots use the robot.txt file for a
 site to assume permission(s) to access content throughout the site.
+
+\---
 
 DNS Basics
 ----------
@@ -83,11 +80,7 @@ which are the Internet's equivalent of a phone book. These servers maintain a
 directory of domain names and translate them when a query for a resource is
 made.
 
-![Domain Registry Process](media/9ebb5d44b2321cbb7a314791bc9fafd7.shtml)
-
-Domain Registry Process
-
-Domain Registry Process
+\---
 
 Domain Registar Queries
 -----------------------
@@ -128,24 +121,14 @@ used for different purposes. Some common DNS queries you should understand may
 include: A, AAAA, MX, NS, CNAME, AXFR, and SOA. There are many more to learn,
 but this short list should be a starting point for familiarity.
 
--   DNS research quiz
-
--   DNS Enumeration Exercise
-
--   DNS Enumeration Exercise
-
 Frameworks
 ----------
 
 Like most aspects of cybersecurity or cyberattack, there are a number of
-frameworks available for automating work! Recon-ng is a full-featured
+frameworks available for automating work! **Recon-ng** is a full-featured
 reconnaissance framework designed with the goal of providing a powerful
 environment to conduct open source web-based reconnaissance quickly and
 thoroughly.
-
-Recon-ng Framework Exercise
-
-Recon-ng Framework Exercise
 
 Network enumeration/port scanning
 ---------------------------------
