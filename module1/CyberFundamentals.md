@@ -193,7 +193,7 @@ misconfigurations can threaten the integrity of information as well.
 
 ### Examples in Integrity:
 
-<img src="https://github.com/GA-CyberWorkforceAcademy/GTA-Training-2020/raw/master/module1/media/9de1dc0ead5bfb335fc7498190057db2.png" width="200">
+<img src="https://github.com/GA-CyberWorkforceAcademy/GTA-Training-2020/raw/master/module1/media/9de1dc0ead5bfb335fc7498190057db2.jpg" width="200">
 
 Apparently, even paper ballots are subject to hacking attempts. In 2010, during
 a Swedish election, several suspicious write-in entries were discovered on paper
@@ -235,16 +235,9 @@ data in the event of an incident that threatens access.
 Being able to use information as anticipated does not always constitute a
 security breach or incident however it can. It is worth remembering that not all
 threats to the C-I- A attributes are deliberate. A natural disaster impact
-availability by the same measure
-
-as an attacker deploying a Denial-of-Service (DoS) attack. By realizing that
+availability by the same measure as an attacker deploying a Denial-of-Service (DoS) attack. By realizing that
 loss of availability may come from a range of sources, we can better understand
 all the types
 
-<img src="https://github.com/GA-CyberWorkforceAcademy/GTA-Training-2020/raw/master/module1/media/f5009b25309c02a6936c73d6a02c940b.jpeg" width="400">
+<img src="https://github.com/GA-CyberWorkforceAcademy/GTA-Training-2020/raw/master/module1/media/f5009b25309c02a6936c73d6a02c940b.jpg" width="400">
 
-.exe extension type that indicates an executable program, rather than a PDF
-document.
-
-Once run, the Trojan used RSA public key encryption to encrypt user files and
-demanded payment for decryption keys.
