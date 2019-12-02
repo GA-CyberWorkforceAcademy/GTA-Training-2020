@@ -20,11 +20,3 @@ disruption, modification, or destruction in order to provide integrity,
 confidentiality and availability. We must start with ensuring that the
 principles of confidentiality, integrity, and availability are understood,
 applied and protected.
-
-Continue to Lesson:
-
--   [Cybersecurity Fundamentals](CyberFundamentals.md)
-
--   [Managing Cybersecurity](ManagingCyber.md)
-
--   [Cybersecurity Policy](CyberPolicy.md)
