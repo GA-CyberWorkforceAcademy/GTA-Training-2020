@@ -193,7 +193,7 @@ misconfigurations can threaten the integrity of information as well.
 
 ### Examples in Integrity:
 
-![Image result for 2010 swedish election sql](media/9de1dc0ead5bfb335fc7498190057db2.jpg)
+<img src="https://github.com/GA-CyberWorkforceAcademy/GTA-Training-2020/raw/master/module1/media/9de1dc0ead5bfb335fc7498190057db2" width="200">
 
 Apparently, even paper ballots are subject to hacking attempts. In 2010, during
 a Swedish election, several suspicious write-in entries were discovered on paper
@@ -222,7 +222,7 @@ Dyn. Dyn provides DNS services for much of the United States, specifically on
 the east coast; this DDoS stopped users in affected areas from reaching Netflix,
 Amazon, Twitter and Paypal just to name a few, for the entire day.
 
-![Image result for mirai botnet dyn dns](media/4096dbedf13e73b8701be5dad74bf492.jpg)
+<img src="https://github.com/GA-CyberWorkforceAcademy/GTA-Training-2020/raw/master/module1/media/4096dbedf13e73b8701be5dad74bf492.jpg" width="400">
 
 Another common example of a human threat of availability is ransomware.
 Ransomware attacks have been on the rise and this represents a means for
