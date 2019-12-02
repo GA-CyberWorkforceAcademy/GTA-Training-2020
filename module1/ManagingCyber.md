@@ -46,11 +46,9 @@ are present in each of these barriers, the results can be disastrous. A lack of
 proper governance allows for this type of condition to occur. An example of this
 is the OPM breach.
 
-*Watch the opening comments by Jason Chaffetz, Chairman of the United States
-House Committee on Oversight and Government Reform from 2015 until 2017.*
-
-https://[www.youtube.com/watch?v=xh7sjYZm1v4](http://www.youtube.com/watch?v=xh7sjYZm1v4)
------------------------------------------------------------------------------------------
+*\*Watch the opening comments by Jason Chaffetz, Chairman of the United States
+House Committee on Oversight and Government Reform from 2015 until 2017 after
+this module.*
 
 Frameworks
 ==========
@@ -73,8 +71,8 @@ of detail in implementing risk- based security. The framework lays out a number
 of proven cybersecurity practices organized into the following categories:
 Identify, Protect, Detect, Respond, and Recover.
 
-https://[www.youtube.com/watch?v=J9ToNuwmyF0](http://www.youtube.com/watch?v=J9ToNuwmyF0)
------------------------------------------------------------------------------------------
+*\*Watch the short video about the NIST Cybersecurity Framework after this
+module.*
 
 ### NIST certifications (no individual certification paths)
 
