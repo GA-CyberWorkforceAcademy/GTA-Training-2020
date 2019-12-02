@@ -20,14 +20,14 @@ The following are the definitions can be found in the NIST SP 800-12, page 2,
 para. 1.4. These definitions serve as the basis for the concepts but may be
 worded slightly different in other publications.
 
-1.   **Confidentiality**: Preserving authorized restrictions on information
+-   **Confidentiality**: Preserving authorized restrictions on information
     access and disclosure, including means for protecting personal privacy and
     proprietary information.
 
-2.   **Integrity:** Guarding against improper information modification or
+-   **Integrity:** Guarding against improper information modification or
     destruction and ensuring information non-repudiation and authenticity.
 
-3.   **Availability:** Ensuring timely and reliable access to and use of
+-   **Availability:** Ensuring timely and reliable access to and use of
     information.
 
 *Additionally, as we discuss the C-I-A triad and move into information security
@@ -36,20 +36,23 @@ non-repudiation, principles of A.A.A, and security controls. The following are
 brief explanations for these topics. They will be discussed in greater depth as
 they relate to information security throughout the course.*
 
-**Non-repudiation:** This deals with creating evidence to prove certain facts or
-actions. Specifically, proving something has taken place that can’t be
-repudiated later; an example may be asserting authenticity and attribution of
-digital correspondence (email) through a digital signature. The digital
-signature both ensures data integrity and guarantees the sender’s identity.
+-   **Non-repudiation:** This deals with creating evidence to prove certain
+    facts or actions. Specifically, proving something has taken place that can’t
+    be repudiated later; an example may be asserting authenticity and
+    attribution of digital correspondence (email) through a digital signature.
+    The digital signature both ensures data integrity and guarantees the
+    sender’s identity.
 
-**Authentication, Authorization, Accountability (AAA):** These three terms cover
-the mechanisms used for controlling the access to information/resources,
-controlling the level of privilege or permissions granted to those accessing the
-information/resources, and auditing usage of said information/resources.
+-   **Authentication, Authorization, Accountability (AAA):** These three terms
+    cover the mechanisms used for controlling the access to
+    information/resources, controlling the level of privilege or permissions
+    granted to those accessing the information/resources, and auditing usage of
+    said information/resources.
 
-**Security Controls**: This refers to the management, operational, and technical
-controls (safeguards or countermeasures) which are prescribed to protect the
-confidentiality, availability, and integrity of the system and its information.
+-   **Security Controls**: This refers to the management, operational, and
+    technical controls (safeguards or countermeasures) which are prescribed to
+    protect the confidentiality, availability, and integrity of the system and
+    its information.
 
 To fully apply these concepts as they relate to information security, we will
 need to take a look at examples of how they may be compromised and the
