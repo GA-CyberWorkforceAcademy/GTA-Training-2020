@@ -53,6 +53,8 @@ NIST CSF
 
 NIST CSF
 
+NIST CSF
+
 Image source:[<https://en.wikipedia.org/wiki/Kill_chain>]
 
 By investigating these phases, a defender can form courses of action to stop the
@@ -111,5 +113,3 @@ looking for information and vulnerabilities that may help them in establishing
 an avenue of approach. This is the reconnaissance phase. This is an activity
 that may be conducted by external or internal threats, so it is important for
 defenders to asses their environment(s) from both of these perspectives.
-
-[Continue to Lesson 2: Recon](Recon.md)
