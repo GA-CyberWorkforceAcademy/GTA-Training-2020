@@ -73,28 +73,25 @@ avoid fraud or identity theft. Whatever the reason, there are many
 considerations when protecting the confidentiality of information.
 
 Controlling access to information is a component in ensuring confidentiality.
-This can
-
-be done from a physical or logical perspective. From a physical perspective,
-controlling access to a data center by issuing keys to only authorized personnel
-provides control. Controlling access for logical resources like information
-systems on the other hand entails measures to authenticate users (prove who they
-are) and provide appropriate authorizations (what they can do to/with
-information.)
+This can be done from a physical or logical perspective. From a physical
+perspective, controlling access to a data center by issuing keys to only
+authorized personnel provides control. Controlling access for logical resources
+like information systems on the other hand entails measures to authenticate
+users (prove who they are) and provide appropriate authorizations (what they can
+do to/with information.)
 
 *Even the best access control methods can be subverted; in case of unauthorized
 access, additional mechanisms must be in place to for protecting information.*
 
-**Cryptography-** This involves the process of using mathematics (algorithms) to
-transform information and obfuscate the content. This operation, known as
-**encryption**, is performed by a sender (or keeper) of data. The recipient or
-entity accessing the data uses decryption, based on having the proper "key", to
-transform the data back to its
-
-original form. While governance specific to the type of information being
-considered dictates the use of cryptography, NIST has authored a number of
-publications to provide guidance regarding how cryptographic protection is to be
-implemented.
+-   **Cryptography-** This involves the process of using mathematics
+    (algorithms) to transform information and obfuscate the content. This
+    operation, known as **encryption**, is performed by a sender (or keeper) of
+    data. The recipient or entity accessing the data uses decryption, based on
+    having the proper "key", to transform the data back to its original form.
+    While governance specific to the type of information being considered
+    dictates the use of cryptography, NIST has authored a number of publications
+    to provide guidance regarding how cryptographic protection is to be
+    implemented.
 
 When securing the confidentiality of data, both “at-rest” and “in-transit”
 states must be considered. Encryption should be used on all sensitive
@@ -128,7 +125,9 @@ Standards in the Federal Government: Cryptographic Mechanisms".*This publication
 is available free of charge from:
 [http://dx.doi.org/10.6028/NIST.SP.800-175B.](http://dx.doi.org/10.6028/NIST.SP.800-175B)
 
-### Examples:
+### Examples in Confidentiality:
+
+![Image result for AES encryption](media/6023e894a31853b26aa7f2df4df8ca5f.png)
 
 The history of encryption keys goes back to the early 1970's. The National
 Bureau of Standards (now known as NIST), published a call for proposals to
@@ -137,7 +136,7 @@ modified by the National Security Agency (NSA) was selected and DES was born. At
 the time, DES seemed to be a highly secure standard. Since DES is based on a
 56-bit key, there are 256 (72,057,594,037,927,936) possibilities. In the 1970's,
 the computational power did not support the idea of this being achieved within a
-human’s lifetime, therefore DES was considered unbreakable.[1]Fast forward a
+human’s lifetime, therefore DES was considered unbreakable. Fast forward a
 couple decades and this was no longer the case. In 1997, a group of individuals
 successfully cracked the DES algorithm. This challenge, proposed by RSA, proved
 that as computational power increases, shorter encryption key lengths are
@@ -166,34 +165,35 @@ information integrity, the threat to information integrity may also come for
 sources that are less intentional. Human error or errors due to
 misconfigurations can threaten the integrity of information as well.
 
-**Input Validation-** This is important to ensuring integrity by validating the
-data that is entered into a system meets the intended parameters for the data
-and no code injection techniques can impact stored data.
+-   **Input Validation-** This is important to ensuring integrity by validating
+    the data that is entered into a system meets the intended parameters for the
+    data and no code injection techniques can impact stored data.
 
-**Hashing-** This offers integrity for data by using a one-way operation to
-create a "fingerprint" which can be used to verify no alternations to the data
-have been made. The principle behind a hash is that for any unique input, there
-should be a unique output (hash value) and is produced however the original
-value cannot be determined or reversed from the hash value (whereas
-encryption/decryption is a two-way function) A strong hashing algorithm should
-be collision resistant. SHA and MD5 are both common hashing standards; however
-both MD5 and the SHA-1 family are obsolete/not recommend for use. SHA-2/3 family
-functions increase the digest (hash) value and are considered safe and collision
-resistant.
+-   **Hashing-** This offers integrity for data by using a one-way operation to
+    create a "fingerprint" which can be used to verify no alternations to the
+    data have been made. The principle behind a hash is that for any unique
+    input, there should be a unique output (hash value) and is produced however
+    the original value cannot be determined or reversed from the hash value
+    (whereas encryption/decryption is a two-way function) A strong hashing
+    algorithm should be collision resistant. SHA and MD5 are both common hashing
+    standards; however both MD5 and the SHA-1 family are obsolete/not recommend
+    for use. SHA-2/3 family functions increase the digest (hash) value and are
+    considered safe and collision resistant.
 
-**Digital Signature-** This operation is used to both ensure that there is no
-alteration in the message and that the sender of the message can be positively
-attributed.
+-   **Digital Signature-** This operation is used to both ensure that there is
+    no alteration in the message and that the sender of the message can be
+    positively attributed.
 
-**Auditing-** Keeping an audit trail allows an organization to maintain
-oversight on what is happening to information. This is important to reinforcing
-the aspect of “accounting” in
+-   **Auditing-** Keeping an audit trail allows an organization to maintain
+    oversight on what is happening to information. This is important to
+    reinforcing the aspect of “accounting” in the AAA model. Some key attributes
+    of audit logs are that they should be automated, have access restrictions in
+    place to prevent tampering, include all events (create/delete/read/modify),
+    and record a user and timestamp for events.
 
-the AAA model. Some key attributes of audit logs are that they should be
-automated, have access restrictions in place to prevent tampering, include all
-events (create/delete/read/modify), and record a user and timestamp for events.
+### Examples in Integrity:
 
-### Examples:
+![Image result for 2010 swedish election sql](media/9de1dc0ead5bfb335fc7498190057db2.jpg)
 
 Apparently, even paper ballots are subject to hacking attempts. In 2010, during
 a Swedish election, several suspicious write-in entries were discovered on paper
@@ -210,7 +210,6 @@ Availability
 *Availability is a concern when information must be provided or accessible*
 
 Availability is needed in situations where information is required/provided for
-
 consumption such as with things like airport ticketing systems, GPS systems, or
 any type of business facilitating system that can affect operations when
 unavailable. Some assets that provide availability to information and
@@ -222,6 +221,8 @@ botnet was used to launch a Distributed Denial of Service (DDoS) attack again
 Dyn. Dyn provides DNS services for much of the United States, specifically on
 the east coast; this DDoS stopped users in affected areas from reaching Netflix,
 Amazon, Twitter and Paypal just to name a few, for the entire day.
+
+![Image result for mirai botnet dyn dns](media/4096dbedf13e73b8701be5dad74bf492.jpg)
 
 Another common example of a human threat of availability is ransomware.
 Ransomware attacks have been on the rise and this represents a means for
