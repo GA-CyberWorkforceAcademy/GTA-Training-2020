@@ -45,6 +45,8 @@ their best interest."*
 
 ![Image result for social engineering](media/6a685c9ec5e6e1d10ccb43dd6a9b37be.jpg)
 
+Image result for social engineering
+
 This is often the starting point for an attacker. Getting information from
 people within an organization can allow attackers a fast, cheap, and potentially
 low-risk way to develop their strategy. If social engineering is used to gain
@@ -129,6 +131,23 @@ frameworks available for automating work! **Recon-ng** is a full-featured
 reconnaissance framework designed with the goal of providing a powerful
 environment to conduct open source web-based reconnaissance quickly and
 thoroughly.
+
+Using Netstat
+-------------
+
+The netstat  command (network statistics) is a utility that displays network
+connections for Transmission Control Protocol (both incoming and outgoing), UDP
+ports that are open and listening for communications, routing tables, and a
+number of network interface and protocol statistics. It can be used on
+linux/unix or windows type operating systems. This command is useful for
+troubleshooting issues, but also may be used by an adversary that has access to
+a compromised host to gain more information about what the system is running,
+the types of connections it can make or the networks it connects to.
+
+The command can be very important for defenders to identify network connections
+on hosts. Malware often either connects out to an adversary to establish a
+connection the attacker can use to access the victim/network, or opens a port to
+be connected to by an attacker.
 
 Network enumeration/port scanning
 ---------------------------------
