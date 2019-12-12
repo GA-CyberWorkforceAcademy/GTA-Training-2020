@@ -47,6 +47,8 @@ their best interest."*
 
 Image result for social engineering
 
+Image result for social engineering
+
 This is often the starting point for an attacker. Getting information from
 people within an organization can allow attackers a fast, cheap, and potentially
 low-risk way to develop their strategy. If social engineering is used to gain
@@ -174,4 +176,5 @@ target.
 
 The following are commonly used tools in network enumeration: Nmap, Nessus,
 OpenVAS, SAINT (software), Security Administrator Tool for Analyzing Networks,
-ZMap (software).
+ZMap (software). Port Scanning will be discussed in further depth in following
+lessons.
