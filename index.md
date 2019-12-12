@@ -32,4 +32,4 @@ and responsibilities, defense in depth can be implemented, evaluated and
 improved upon. This module will focus on policy, roles and responsibilities,
 risk assessment, and controls.
 
-[Begin Module 3](module3/index.md.md)
+[Begin Module 3](module3/index.md)
