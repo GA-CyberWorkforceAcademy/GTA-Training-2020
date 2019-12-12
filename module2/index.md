@@ -49,12 +49,6 @@ in movement towards their objective, including:
 
 ![NIST CSF](media/1bdb97b228a00f14272ff0fc1e8689a3.png)
 
-NIST CSF
-
-NIST CSF
-
-NIST CSF
-
 Image source:[<https://en.wikipedia.org/wiki/Kill_chain>]
 
 By investigating these phases, a defender can form courses of action to stop the
